@@ -27,7 +27,7 @@ body {
 /* ************************************************** */ 
 
 @media (max-width: 767.98px) {
-	nav h1 { font-size: 2rem; margin-bottom: 0; --wght: 700;}
+	nav h1 { font-size: 2rem; margin-bottom: 0; --wght: 850;}
 	.nav-home { display: none; }
 	.navbar { background-color: rgba(254, 246, 231, 0.95); padding-top: 1rem; }
 	.dropdown-content { position: static !important; height: 100%; width: 100%; display: block !important; }
